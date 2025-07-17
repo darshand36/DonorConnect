@@ -32,3 +32,6 @@ Backend:PHP
 Database:PhpMyadmin and xampp
 
 Hosting: ooowebhost
+
+<img width="1902" height="815" alt="image" src="https://github.com/user-attachments/assets/668c1b51-3ee4-4172-8df8-b435e413e194" />
+
